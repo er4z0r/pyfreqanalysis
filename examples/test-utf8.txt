@@ -1,0 +1,17 @@
+Einfuehrung in die Kryptografie und Datensicherheit
+
+Wintersemester 2011/2012
+
+Allgemeine Information zur Abgabe der UEbungsaufgaben im Fach "Einfuehrung in die Kryptografie und Datensicherheit"
+Vorlesungsbegleitend wird eine UEbung angeboten, in welcher der Inhalt der Vorlesung vertieft wird. Zusaetzlich bieten wir die Moeglichkeit, regelmaeßig UEbungsaufgaben zu loesen und diese zur Korrektur abzugeben. Die in den UEbungsaufgaben erreichten Punkte werden fuer das jeweilige Semester aufsummiert und koennen als Bonuspunkte das Klausurergebnis fuer die Endnote um bis zu 10% verbessern! Hierfuer gelten weiterhin folgende Regeln: · Die UEbungszettel werden waehrend der Vorlesungszeit in der Regel woechentlich erscheinen. Sie sind puenktlich zu dem angebenen Termin abzugeben. · Da die einzelnen Aufgaben (1,2,3...) auf den Zetteln von unterschiedlichen Korrekteuren bearbeitet werden ist es erforderlich, dass Sie die Aufgaben auf getrennten Blaettern einreichen. Werden mehrere Blaetter fuer eine Aufgabe benoetigt muessen diese aneinandergeheftet werden.Schreiben Sie auf das jeweils erste Blatt einer Aufgabenloesung ihren Namen und ihre Matrikelnummer. · Die Rueckgabe der korrigierten Loesungen erfolgt in den UEbungsgruppen. Notieren sie daher auf Ihren Loesungen an welcher UEbung Sie teilnehmen bzw. auch, dass Sie zu keiner UEbung gehen. · Zu spaet abgegebene UEbungsaufgaben werden nicht gewertet. Bei Krankheit o.ae. kontaktieren Sie bitte den UEbungsleiter. · Die UEbungsloesung koennen allein, oder in Teams von bis zu zwei Personen abgegeben werden. Jeder Teilnehmer muss allerdings eine eigene Loesung abgeben. Wenn UEbungen im Team abgegeben werden, wird jeweils nur eine der beiden Loesungen korrigiert. Wenn Sie die UEbungsloesungen in einem zweier Team abgeben muessen sie auch den Namen Ihres Teampartners auf dem Zettel angeben. Ausserdem bitten wir Sie die beiden Loesungen der Gruppe zusammengeheftet abzugeben. · Da die Abgabe der UEbungen Auswirkungen auf Ihre Pruefungsnote hat wird bei nachweislich von alten Musterloesungen abgeschriebenen Loesungen und bei von anderen Teams kopierten Loesungen die entsprechene UEbung bei allen Beteiligten mit 0 Punkten bewertet. Bei wiederholten Betrugsversuchen behalten wir uns vor saemtliche Bonuspunkte fuer die Klausur zu streichen und sie ggf. nicht zu dieser zuzulassen. · Die Abgabe der Loesungen sollte aus didaktischen Gruenden handschriftlich erfolgen. Computergeschriebene Loesungen werden aber auch akzeptiert, allerdings darf bei Teamabgaben nur eines der Teammitglieder eine Computergeschriebene Loesung einreichen.
+Lehrstuhl fuer Embedded Security, Ruhr-Universitaet Bochum 13. Oktober 2011
+
+Einfuehrung in die Kryptografie und Datensicherheit
+
+Wintersemester 2011/2012
+
+· Die Verwendung von Computerprogrammen und Internet-Recherche ist prinzipiell erlaubt, muss aber als solche gekennzeichnet werden (Quellenangabe!). · Der Inhalt der Texte, die in den UEbungen gelesen werden sollen ist pruefungsrelevant! Bei organisatorischen Fragen wenden Sie sich bitte an Ihren UEbungsleiter: Markus.Duermuth@rub.de, 0234/32-26694.
+
+Lehrstuhl fuer Embedded Security, Ruhr-Universitaet Bochum
+
+13. Oktober 2011
